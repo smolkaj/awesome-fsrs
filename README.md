@@ -271,11 +271,12 @@ Used to power [grsly](https://grsly.com/), a tool for learning Japanese grammar.
 
 #### [Jolito](https://github.com/smolkaj/jolito)
 
-  Jolito is an open-source, local-first Spanish vocabulary and grammar trainer featuring high-fidelity neural pronunciation (natural Mexican Spanish audio), seamless cross-device cloud sync, interactive conjugation drills (gerunds, pretérito perfecto), and bidirectional flashcards. Works offline with zero operational costs.
+  Jolito is a calm, beautifully crafted Spanish vocabulary and grammar app designed as the antidote to clunky "tax-software" flashcards and bloated freemium gamification. It offers a distraction-free, tactile study experience with high-fidelity Mexican Spanish audio, seamless cross-device cloud sync, and zero recurring subscriptions or ads (free on the web, one-time purchase on mobile).
 
-- Uses [ts-fsrs](https://github.com/open-spaced-repetition/ts-fsrs) for native client-side FSRS scheduling, eliminating SM-2 ease decay on irregular grammar conjugations.
-- Preserves schedule state across seamless multi-device cloud sync and Anki `.apkg` imports without backend compute bottlenecks.
-- Available as a standalone PWA on Web, iOS, and Android.
+- **Simplicity Above All:** Fast, clutter-free practice sessions with fluid gestures, keyboard-first navigation, and zero cognitive overhead.
+- **FSRS Memory Engine:** Uses [ts-fsrs](https://github.com/open-spaced-repetition/ts-fsrs) client-side to eliminate SM-2 ease decay on irregular grammar conjugations, with automatic bidirectional sibling burying.
+- **Studio Audio & Spoken Recall:** High-fidelity neural pronunciation and speech evaluation, aggressively pre-cached for instant offline study.
+- **Local-First & Multi-Device:** Instant cross-device cloud sync and lossless Anki `.apkg` imports, available on Web, iOS, and Android.
 
 #### [KaChiKa](https://kachika.app/)
 
